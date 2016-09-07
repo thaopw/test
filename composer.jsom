@@ -1,11 +1,17 @@
 {
-  "name": "magenest/module-improve-store",
+  "name": "thaopv/module-improve-store",
   "description": "Improve Magenest Store",
   "type": "magento2-module",
   "version": "1.0.0",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
+  ],
+  "authors": [
+        {
+            "name": "Your Name",
+            "email": "your@name.com"
+        }
   ],
   "autoload": {
     "files": [ "registration.php" ],
